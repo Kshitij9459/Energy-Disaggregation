@@ -1,5 +1,6 @@
 # Energy-Disaggregation
 
+Link to the video- https://drive.google.com/drive/folders/1dVdfrLnnsNcIj4Cr3faYGytYpVBT91AX?usp=sharing 
 Energy disaggregation refers to the process in which we are able to tell the energy consumption of each appliance in home given the reading of mains
 
 For the code mentioned above, first 170 lines are preparing data for the network. The data used in this case is REDD dataset. For different appliances,different model will be trained. 
